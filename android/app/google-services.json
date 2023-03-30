@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "661355733667",
+    "project_id": "movieflix-bacf6",
+    "storage_bucket": "movieflix-bacf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661355733667:android:a0e24ae98bb133a865d516",
+        "android_client_info": {
+          "package_name": "com.example.movieflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661355733667-iofhu18du47f5ua6cpehfsth7gouqtt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movieflix",
+            "certificate_hash": "e41926546f8c8d59df37646c7263305c512b9bf5"
+          }
+        },
+        {
+          "client_id": "661355733667-qkc1t73tlvd5p19hee2eilg9oskt5kjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmerAwcxL9NnFXGJYXgmZsLfZX8LAn4vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661355733667-5fqkp6g64jal4u167n15sgvh8a4vilgh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661355733667-525jm4ac0hbdujcs6eibpolmtlr3ebi0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.movieflix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
